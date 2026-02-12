@@ -1,0 +1,17 @@
+# Counterfactual Quantum Communication - Requirements
+# Python 3.8+
+
+# Core quantum computing
+qiskit>=1.0.0
+qiskit-aer>=0.13.0
+
+# Visualization
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Optional: Jupyter notebook support
+# jupyter>=1.0.0
+# ipykernel>=6.0.0
+
+# Optional: IBM Quantum runtime (for real hardware)
+# qiskit-ibm-runtime>=0.15.0
