@@ -7,7 +7,7 @@ counterfactual communication using Qiskit and Aer simulator.
 
 Reference: Salih et al., Phys. Rev. Lett. 110, 170502 (2013)
 
-Author: Your Name
+Author: Adhyantha Chandrasekaran
 Date: February 2025
 """
 
