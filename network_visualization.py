@@ -6,7 +6,7 @@ Visualizes the physical path information takes through the
 counterfactual communication system, showing Alice's apparatus,
 transmission channel, and Bob's apparatus.
 
-Author: Your Name
+Author: Adhyantha Chandrasekaran
 Date: February 2025
 """
 
