@@ -348,7 +348,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author:** Adhyantha
+- **Author:** Adhyantha Chandrasekaran (adhyanthac@gmail.com)
 - **GitHub:** [@adhyanthac](https://github.com/adhyanthac)
 
 ---
